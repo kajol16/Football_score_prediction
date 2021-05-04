@@ -7,7 +7,23 @@ The goal of this study is to evaluate prediction methods of football (Soccer) re
 Problem Statement:
 
 Preprocess the data
+
 Import and use existing Classifiers
+
 Compare the output of the classifiers
+
 Make some changes to the classifier and build own classifier
+
 Compare the output
+
+Technologies:
+
+This project is 100% Jupyter notebook.
+
+Installation:
+
+This project doesnt need any installation if google colab is used.
+
+You can open the code in google colab and if running it, you can add the excel file Brazil_Serie_A_2019.xlsx file added in this repository.
+
+
